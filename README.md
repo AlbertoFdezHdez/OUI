@@ -24,5 +24,5 @@ OUI was validated across multiple vision benchmarks:
 - **EfficientNet-B0** on **TinyImageNet**
 - **ResNet-34** on **ImageNet-1K**
 
-Across all experiments, keeping OUI in a specific target range consistently led to improved validation accuracy.
+Across all experiments, keeping OUI between 0.6 and 0.8 consistently led to improved validation accuracy.
 
